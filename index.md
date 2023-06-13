@@ -9,5 +9,10 @@
 print("Hello world")
 ```
 
+- [x] Agregado # (<h>)
+- [ ] Agregado codigo
+- [ ] Agregado imagen
+- [ ] aggregado to do list
+
 ![Foto de perfil](https://i.imgur.com/HNrCdw7.jpeg)
 
